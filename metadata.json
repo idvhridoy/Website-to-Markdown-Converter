@@ -1,0 +1,6 @@
+{
+  "name": "Article to Markdown & Notion Converter",
+  "description": "Scrapes URLs, strips ads, trackers, and navigation clutter, and converts article content into structured Markdown and Notion-ready blocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
